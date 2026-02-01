@@ -91,7 +91,7 @@ PING_INTERVAL=20
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/VJBots/VJ-Filter-Bot&branch=Tech_VJ&name=VJ-Filter-Bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/providerbotz/SecretShareBot&branch=main&name=SecretShareBot)
 </details>
 
 <details><summary><b>Deploy To Render</b></summary>
@@ -118,7 +118,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/VJBots/VJ-Filter-Bot/tree/Tech_VJ">
+<a href="https://github.com/providerbotz/SecretShareBot">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -126,7 +126,7 @@ Use these settings when adding a monitor:</b>
 <details><summary><b>Deploy To VPS</summary>
 
 
-`git clone https://github.com/VJBots/VJ-Filter-Bot`
+`git clone https://github.com/providerbotz/SecretShareBot`
 
 Install Packages
 
@@ -147,7 +147,7 @@ Edit info.py with variables as given below then run bot
 ### 1. **Clone the Repo**
 
 ```bash
-git clone https://github.com/ByteSupreme/SecretShare-Bot
+git clone https://github.com/providerbotz/SecretShareBot
 cd SecretShare-Bot
 ```
 
@@ -179,29 +179,11 @@ python3 main.py
 ```
 
 ---
+## Disclaimer
+[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
+<b>Licensed under [GNU AGPL 2.0.](https://github.com/providerbotz/SecretShareBot/blob/main/LICENSE)
+Selling The Codes To Other People For Money Is *Strictly Prohibited*.</b>
 
-## 🧠 Powered By
-
-* [PyroFork](https://github.com/pyrogram/pyrofork)
-* [Pyrogram](https://github.com/pyrogram/pyrogram)
-* [MongoDB](https://www.mongodb.com/)
-* ❤️ Open Source Community
-
----
-
-## 👤 Maintainer
-
-* [ByteSupreme](https://github.com/ByteSupreme)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 💬 Support & Contributions
-
-* Open an [Issue](https://github.com/ByteSupreme/SecretShare-Bot/issues) for bug reports or help.
-* Submit a [Pull Request](https://github.com/ByteSupreme/SecretShare-Bot/pulls) to contribute.
+</pre>
+</p>
+</details>
