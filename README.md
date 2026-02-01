@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/Secret-Share-Bot?style=for-the-badge&logo=github&color=blue" />
-  <img src="https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/Secret-Share-Bot?style=for-the-badge&logo=git&color=magenta" />
+  <img src="https://img.shields.io/github/stars/providerbotz/Secret-Share-Bot?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/forks/providerbotz/Secret-Share-Bot?style=for-the-badge&logo=git&color=magenta" />
 </p>
 
 ---
 
 ### 📊 Repository Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Secret-Share-Bot&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=providerbotz&repo=Secret-Share-Bot&theme=tokyonight" />
 </p>
 
 
