@@ -141,10 +141,6 @@ Edit info.py with variables as given below then run bot
 
 <hr>
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=providerbotz&repo=SecretShareBot&theme=tokyonight&show_owner=true" alt="Secret Share Bot Stats" />
-</p>
----
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
