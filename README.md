@@ -49,11 +49,11 @@ In the "Environment" tab, add the following variables one by one:
 <br>
 <b>## 💻 Run Locally (For Testing)
 
-1. **Clone the Repo**
+<br>1. **Clone the Repo**
 
-```bash
-git clone https://github.com/ByteSupreme/SecretShare-Bot
-cd SecretShare-Bot
+<br>```bash
+<br>git clone https://github.com/providerbotz/SecretShareBot
+<br> SecretShare-Bot
 ```
 
 2. **Install Requirements**
@@ -62,7 +62,7 @@ cd SecretShare-Bot
 pip install -r requirements.txt
 ```
 
-**Create `.env` File**
+<br>**Create `.env` File**
 
 Create a `.env` file in the root directory:
 
@@ -77,11 +77,11 @@ PING_URL=https://your-render-url (optional)
 PING_INTERVAL=20
 ```
 
-4. **Start the Bot**
+<br>4. **Start the Bot**
 
-```bash
-python3 main.py
-```</b>
+<br>```bash
+<br>python3 main.py
+<br>```</b>
 </p>
 </details>
 
