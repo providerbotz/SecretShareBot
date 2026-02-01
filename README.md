@@ -44,25 +44,25 @@ In the "Environment" tab, add the following variables one by one:
 > ⚠️ You must deploy as a **Web Service**, not as a background worker.
 
 ---
-<details><summary><b>Deploy To Locak</b></summary>
+<details><summary><b>Deploy To Local</b></summary>
 <p>
 <br>
 <b>## 💻 Run Locally (For Testing)
 
-### 1. **Clone the Repo**
+1. **Clone the Repo**
 
 ```bash
 git clone https://github.com/ByteSupreme/SecretShare-Bot
 cd SecretShare-Bot
 ```
 
-### 2. **Install Requirements**
+2. **Install Requirements**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. **Create `.env` File**
+**Create `.env` File**
 
 Create a `.env` file in the root directory:
 
@@ -77,7 +77,7 @@ PING_URL=https://your-render-url (optional)
 PING_INTERVAL=20
 ```
 
-### 4. **Start the Bot**
+4. **Start the Bot**
 
 ```bash
 python3 main.py
