@@ -1,6 +1,15 @@
-# 🤫 SecretShare-Bot
+<p align="center">
+  <img src="https://i.ibb.co/Url.jpg" alt=Secret Share Bot Logo">
+</p>
+<h1 align="center">
+  Secret Share Bot
+</h1>
 
-**SecretShare-Bot** is a privacy-first Telegram bot built using [PyroFork](https://github.com/pyrogram/pyrofork). It allows users to share secrets and covert messages through Telegram—safely and anonymously. The bot supports premium user management, inline query sharing, MongoDB integration, and reaction-based control.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Secret+Share+Bot+!)
+</p>
+
+
+**SecretShareBot** is a privacy-first Telegram bot built using [PyroFork](https://github.com/pyrogram/pyrofork). It allows users to share secrets and covert messages through Telegram—safely and anonymously. The bot supports premium user management, inline query sharing, MongoDB integration, and reaction-based control.
 
 ---
 
@@ -63,6 +72,69 @@ In the "Environment" tab, add the following variables one by one:
 
 > ⚠️ You must deploy as a **Web Service**, not as a background worker.
 
+---
+<details><summary><b>Deploy To Heroku</b></summary>
+<p>
+<br>
+<b>First Connect Your GitHub Account Then Select Repo And Deploy With Procfile.</b>
+</p>
+</details>
+
+<details><summary><b>Deploy To Koyeb</b></summary>
+<br>
+<b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
+<br>
+<br>
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/VJBots/VJ-Filter-Bot&branch=Tech_VJ&name=VJ-Filter-Bot)
+</details>
+
+<details><summary><b>Deploy To Render</b></summary>
+<br>
+<b>
+Use these commands:
+<br>
+<br>
+• Build Command: <code>pip3 install -U -r requirements.txt</code>
+<br>
+<br>
+• Start Command: <code>python3 bot.py</code>
+<br>
+<br>
+Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
+<br>
+<br>
+Use these settings when adding a monitor:</b>
+<br>
+<br>
+<img src="https://telegra.ph/file/a79a156e44f43c9833b50.jpg" alt="render template">
+<br>
+<br>
+<b>Click on the below button to deploy directly to render ↓</b>
+<br>
+<br>
+<a href="https://render.com/deploy?repo=https://github.com/VJBots/VJ-Filter-Bot/tree/Tech_VJ">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+</details>
+
+<details><summary><b>Deploy To VPS</summary>
+
+
+`git clone https://github.com/VJBots/VJ-Filter-Bot`
+
+Install Packages
+
+`pip3 install -U -r requirements.txt`
+
+Edit info.py with variables as given below then run bot
+
+`python3 bot.py`
+
+</b>
+</details>
+
+<hr>
 ---
 
 ## 💻 Run Locally (For Testing)
