@@ -39,7 +39,7 @@ In the "Environment" tab, add the following variables one by one:
 | `PING_URL`      | Your Render web service URL       |
 | `PING_INTERVAL` | (Optional) Seconds, default: `20` |
 
-> Example `PING_URL`: `https://secretshare-bot.onrender.com`
+> Example `PING_URL`: `https://YOURPROJECTNAME.onrender.com`
 
 > ⚠️ You must deploy as a **Web Service**, not as a background worker.
 
