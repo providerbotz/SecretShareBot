@@ -79,7 +79,7 @@ PING_INTERVAL=20
 
 <br>4. **Start the Bot**
 
-```bash
+<br>```bash
 python3 main.py
 <br>```</b>
 </p>
