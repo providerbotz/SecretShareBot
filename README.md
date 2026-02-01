@@ -142,43 +142,6 @@ Edit info.py with variables as given below then run bot
 <hr>
 ---
 
-## 💻 Run Locally (For Testing)
-
-### 1. **Clone the Repo**
-
-```bash
-git clone https://github.com/providerbotz/SecretShareBot
-cd SecretShare-Bot
-```
-
-### 2. **Install Requirements**
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. **Create `.env` File**
-
-Create a `.env` file in the root directory:
-
-```env
-API_ID=your_api_id
-API_HASH=your_api_hash
-BOT_TOKEN=your_bot_token
-MONGO_URI=your_mongo_uri
-OWNER_ID=your_owner_id
-BOT_USERNAME=your_bot_username
-PING_URL=https://your-render-url (optional)
-PING_INTERVAL=20
-```
-
-### 4. **Start the Bot**
-
-```bash
-python3 main.py
-```
-
----
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
 <b>Licensed under [GNU AGPL 2.0.](https://github.com/providerbotz/SecretShareBot/blob/main/LICENSE)
@@ -187,3 +150,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.</b>
 </pre>
 </p>
 </details>
+
