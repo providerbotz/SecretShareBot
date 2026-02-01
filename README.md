@@ -81,7 +81,7 @@ PING_INTERVAL=20
 
 <br>```bash
 python3 main.py
-<br>```</b>
+```</b>
 </p>
 </details>
 
